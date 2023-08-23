@@ -1,0 +1,26 @@
+/* NoItems.css */
+
+.no-items {
+   
+    height: 100%;
+    text-align: center;
+    background-color: #ffffff; /* White background */
+  }
+  
+  .no-items p {
+    font-size: 18px;
+    color: #999; /* Light gray text color */
+    margin-bottom: 10;
+  }
+.item-img-card{
+    width: 20%;
+    margin: auto;
+}
+.item-img-card img{
+    width: 100%;
+}
+
+.text-item{
+    margin-top: 15px;
+    color: #999;
+}
